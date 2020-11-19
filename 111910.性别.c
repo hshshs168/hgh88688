@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main(){
+ printf("请输入暗号:");
 int i;
 	scanf("%d",&i);
 if(i==1)
