@@ -2,6 +2,7 @@
 int main()
 {
 int a,b,c;
+printf("请输入3个整数，空格隔开，回车结束：");
 scanf("%d%d%d",&a,&b,&c);
 if(a>b&&a>c&&b>c)
 printf("%d\n%d\n%d\n",c,b,a);
