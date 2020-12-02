@@ -1,4 +1,4 @@
-  #include<stdio.h>
+#include<stdio.h>
 int main()
 {
     int n;
@@ -29,9 +29,4 @@ int main()
         default:printf("请输入一个1-20的数字");
     }
 return 0;
-
-
-
-
-
 }
